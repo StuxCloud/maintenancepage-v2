@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maintenancepage.stux.cloud/sitemap.xml
+Sitemap: https://maintenancepage-v2.stux.cloud/sitemap.xml
